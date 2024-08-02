@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/close.png</file>
+        <file>image/default.png</file>
+        <file>image/imrxshluzrn.webp</file>
+        <file>image/last.png</file>
+        <file>image/next.png</file>
+        <file>image/picstyle.png</file>
+        <file>image/play1.png</file>
+        <file>image/play4.png</file>
+        <file>image/qwer1.png</file>
+        <file>image/qwer2.png</file>
+        <file>image/qwer3.png</file>
+        <file>image/qwer4.png</file>
+        <file>image/search.png</file>
+        <file>image/sequence.png</file>
+        <file>image/setting.png</file>
+        <file>image/shuffle.png</file>
+        <file>image/update.png</file>
+        <file>image/volume-high-icon.png</file>
+        <file>image/volume-low-icon.png</file>
+        <file>image/volume-medium-icon.png</file>
+        <file>image/volume-mute-icon.png</file>
+        <file>image/zxcv.png</file>
+        <file>image/qwer.png</file>
+        <file>image/quit.png</file>
+    </qresource>
+</RCC>
